@@ -15,7 +15,7 @@ namespace demoMVC.Controllers
         [HttpPost]
         public IActionResult Index(string A)
         {
-            return View("");
+            return View("S");
         }
     }
 }
